@@ -1,0 +1,2 @@
+# FacialEmotionClassificationUsingQuantumCNN
+Facial Emotion Classification Using Quantum CNN
